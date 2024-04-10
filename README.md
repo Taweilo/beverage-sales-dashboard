@@ -10,7 +10,7 @@
 ```
 
 ## Data 
-The Excel file includes 4 sheets. Focusing on the sheet 'Data', we can study the Retailer Sodapop's products sold in 2022. 
+The Excel file includes 4 sheets. Focusing on the sheet 'Data', we can study the Retailer Sodapop's sales in 2022. 
 There are 3740 records and 9 columns. Fields include: 
 - `Retailer`: The name of the retailer, which is "Sodapop" in this case.
 - `Retailer ID`: An identifier for the retailer.
@@ -29,7 +29,7 @@ There are 3740 records and 9 columns. Fields include:
 
 ## Deployment
 https://app.powerbi.com/groups/me/reports/96a52ffe-3a06-458c-99ea-5a11844aa9aa/ReportSection?experience=power-bi
- <img src="" width="1000">
+ <img src="https://github.com/Taweilo/beverage_sales_dashboard/blob/main/2022%20Beverage%20Sales%20Dashbaord.png" width="1000">
 
 ## Insights
 
