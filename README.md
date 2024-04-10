@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/%20Power%20BI-FFFFFF?style=for-the-badge&logo=Power%20BI&logoColor=F2C811)
 
 ```
-├── Beverage Sales Dashboard Image.png                         <- image used in the README
+├── 2022 Beverage Sales Dashboard.png                          <- image used in the README
 ├── Beverage Sales Dashboard.pbix                              <- power bi doc
 ├── README.md                                                  <- README
 ├── Start-Power-Bi-Essentials-Dataset.xlsx                     <- dataset  
