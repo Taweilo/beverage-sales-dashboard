@@ -33,7 +33,7 @@ https://app.powerbi.com/groups/me/reports/96a52ffe-3a06-458c-99ea-5a11844aa9aa/R
 
 ## Insights
 
-E.g. Overall beverage sales (6 products are included)
+E.g. Overall beverage sales (6 brands were included. user filter and further study)
 
 - Overall Sales: $8.2M, 16.54M unit sold, 0.48 as Average unit price.
 - Two peaks exist on July and December
