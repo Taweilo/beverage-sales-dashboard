@@ -16,7 +16,7 @@ There are 3740 records and 9 columns. Fields include:
 - `Retailer ID`: An identifier for the retailer.
 - `Date`: The date of the sales transaction.
 - `Month`: The month corresponding to the sales transaction.
-- `Region: The geographic region where the sales took place, e.g. "Northeast".
+- `Region`: The geographic region where the sales took place, e.g. "Northeast".
 - `State`: The specific state within the region.
 - `Beverage Brand`: The brand of beverages sold by the retailer, such as "Coca-Cola," "Diet Coke," "Sprite," etc.
 - `Price per Unit`: The price charged for each unit of the beverage, denoted in dollars.
